@@ -33,7 +33,7 @@
 	HSSsection3D(secID, matID, matTorsion, H, h, B, b, t, nsubdiv_y, nsubdiv_z)
 
 
-# You can visualise your HSS-section by using the section_plot.py file with proper inputs.
+	# You can visualise your HSS-section by using the **section_plot.py** file with proper inputs.
 
 # Reference:	
 
