@@ -1,6 +1,6 @@
 ###
 # This piece of code defines the function to create square HSS Section
-    # The help of the reference study for OpenSeesPy makes this code possible.
+    # The reference study for OpenSeesPy makes this code possible.
     #
     #  ##   Reference used for guidance:
     #
